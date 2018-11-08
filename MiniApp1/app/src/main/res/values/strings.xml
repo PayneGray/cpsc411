@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MiniApp1</string>
+    <string name="label1">Network Speed in mbps</string>
+    <string name="label2">File Size in MiB</string>
+    <string name="result">0.0 seconds</string>
+</resources>
